@@ -1,0 +1,6 @@
+numpy>=1.19.0
+# Expyriment is optional - only needed for pytrak/main.py GUI application
+# expyriment>=0.8.0
+# matplotlib is optional - only needed for analysis scripts
+# matplotlib>=3.3.0
+
