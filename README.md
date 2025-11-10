@@ -7,7 +7,7 @@
 - Windows OS 
 - TrakStar hardware connected and powered on
 - Python 3.6+
-- Install drivers from https://drive.google.com/drive/folders/1Gusb3T4gf5J67fZ-n6SzZM5O2ATfuEda?usp=sharing
+- Install drivers from https://drive.google.com/drive/folders/1Gusb3T4gf5J67fZ-n6SzZM5O2ATfuEda?usp=sharing (download the 10006809 folder and run install.msi)
 
 ### 2. Install
 
